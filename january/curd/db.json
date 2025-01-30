@@ -1,0 +1,53 @@
+{
+  "student": [
+    {
+      "id": "2",
+      "rollno": "543",
+      "name": "Rahul",
+      "city": "Satna",
+      "fees": 394500
+    },
+    {
+      "id": "3",
+      "rollno": 123,
+      "name": "Manju",
+      "city": "Rewa",
+      "fees": 344500
+    },
+    {
+      "id": "8988",
+      "rollno": "124",
+      "name": "Suchita sahu",
+      "city": "satna",
+      "fees": "45600"
+    },
+    {
+      "id": "cfa8",
+      "rollno": "125",
+      "name": "neeraj",
+      "city": "indore",
+      "fees": "48588"
+    },
+    {
+      "id": "588a",
+      "rollno": "126",
+      "name": "Bharat sarkar",
+      "city": "India",
+      "fees": "999999"
+    },
+    {
+      "id": "db57",
+      "rollno": "23",
+      "name": "dev",
+      "city": "nhopal",
+      "fees": "123"
+    },
+    {
+      "id": "ddbf",
+      "rollno": "23r43",
+      "name": "23r4g",
+      "city": "34rt",
+      "fees": "234g5"
+    }
+  ]
+}

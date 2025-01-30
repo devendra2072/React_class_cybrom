@@ -1,0 +1,46 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "rollno": 1,
+      "name": "John Doe",
+      "city": "bpl",
+      "fess": 6000
+    },
+    {
+      "id": "2",
+      "rollno": 2,
+      "name": "Jonny",
+      "city": "bpl",
+      "fess": 400
+    },
+    {
+      "id": "3",
+      "rollno": 3,
+      "name": "sapna",
+      "city": "indore",
+      "fess": 40
+    },
+    {
+      "id": "4",
+      "rollno": 4,
+      "name": "aaryn",
+      "city": "nagpur",
+      "fess": 2000
+    },
+    {
+      "id": "5",
+      "rollno": 5,
+      "name": "anurag",
+      "city": "rewa",
+      "fess": 400
+    },
+    {
+      "id": "ff17",
+      "rollno": "sdfghj",
+      "name": "dfghj",
+      "city": "hjk",
+      "fees": "ghj"
+    }
+  ]
+}
