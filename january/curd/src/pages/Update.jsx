@@ -7,7 +7,7 @@ const Update=()=>{
     const [mydata, setMydata]=useState([]);
     const navigate= useNavigate();
     const loadData=()=>{
-        let api="http://localhost:3000/student";
+        let api="http://localhost:8000/student/";
         axios.get(api).then((res)=>{
             setMydata(res.data);
             console.log(res.data);
@@ -18,18 +18,15 @@ const Update=()=>{
     }, []);
 
     const myDel=(id)=>{
-        let api=`http://localhost:3000/student/${id}`;
+        let api=`http://127.0.0.1:8000/student/${id}/`;
         axios.delete(api).then((res)=>{
             alert("Data deleted!!");
         })
         loadData();
     }
-
-    const myEdit=(id)=>{
-           
+    const myEdit=(id)=>{    
         navigate(`/editdata/${id}`);
     }
-
     const ans=mydata.map((key)=>{
         return(
             <>

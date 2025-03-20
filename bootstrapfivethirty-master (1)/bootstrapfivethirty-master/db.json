@@ -1,0 +1,105 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "oppo A5",
+      "description": "Oppo Smart phone Andrio",
+      "category": "smart phone",
+      "price": 9000,
+      "image": "https://m.media-amazon.com/images/I/51oDDYRMifL._SL1280_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Samsung S23 ",
+      "description": " Smart phone Samsung Andrio",
+      "category": "android phone",
+      "price": 40000,
+      "image": "https://m.media-amazon.com/images/I/61isPIHrHgL._SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Motto G 54",
+      "description": "Motto G Smart phone Andriod",
+      "category": "keypad phone",
+      "price": 18000,
+      "image": "https://m.media-amazon.com/images/I/81dl4dQY3BL._SL1500_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Oppo A 53",
+      "description": "Andriod phone Oppo A 53 4 64 Ram",
+      "category": "smart phone",
+      "price": 20000,
+      "image": "https://m.media-amazon.com/images/I/81Xl10tx7hL._SL1500_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Redim Not 10 Pro",
+      "description": "Ram 8 GB 128 With dynamic power",
+      "category": "android phone",
+      "price": 20000,
+      "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._SL1500_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "poco S6",
+      "description": "* GB Ram 128 ROM with galss screen",
+      "category": "smart phone",
+      "price": 16000,
+      "image": "https://m.media-amazon.com/images/I/717kT9HNtOL._SL1500_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Jio basic Mobile",
+      "description": "Jio Ka sasta mobile",
+      "category": "keypad phone",
+      "price": 1500,
+      "image": "https://m.media-amazon.com/images/I/71LNMVUZXML._SL1500_.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Nokia 3310",
+      "description": "Nokia key pad mobile 3310 with 2 GB 28 ROM",
+      "category": "keypad phone",
+      "price": 1100,
+      "image": "https://m.media-amazon.com/images/I/51GSe9rxsoL._SL1080_.jpg"
+    }
+  ],
+  "userreviews": [
+    {
+      "id": "1",
+      "productid": 2,
+      "point": 4,
+      "comment": "Awesome Product  i recomnded to all users",
+      "email": "ranu123@gmail.com"
+    },
+    {
+      "id": "9815",
+      "productid": "2",
+      "email": "admin@gmail.com",
+      "comment": "this is awesome product it is value for money",
+      "point": 5
+    },
+    {
+      "id": "de33",
+      "productid": "3",
+      "email": "ayushi123@gmail.com",
+      "comment": "its average product this is good ",
+      "point": 3
+    },
+    {
+      "id": "0827",
+      "productid": "2",
+      "email": "ranu123@gmail.com",
+      "comment": "this product is not value for money",
+      "point": 2
+    },
+    {
+      "id": "7c08",
+      "productid": "1",
+      "email": "admin@gmail.com",
+      "comment": "iiuyiu",
+      "point": 4
+    }
+  ]
+}

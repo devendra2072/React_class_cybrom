@@ -10,7 +10,7 @@ const Insert=()=>{
     console.log(input);
   }
   const handleSubmit=()=>{
-    let api="http://localhost:3000/student";
+    let api="http://127.0.0.1:8000/student/";
     axios.post(api, input).then((res)=>{
          alert("Data save!!!");
     });

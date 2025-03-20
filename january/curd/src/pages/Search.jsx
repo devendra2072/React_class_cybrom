@@ -4,7 +4,7 @@ const Search=()=>{
     const [rno, setRno] = useState("");
     const [mydata, setMydata] = useState([]);
     const handleSubmit=async()=>{
-        let api=`http://localhost:3000/student/?rollno=${rno}`;
+        let api=`http://127.0.0.1:8000/student/?rollno=${rno}/`;
         const response= await axios.get(api);
         console.log(response.data);
         setMydata(response.data);

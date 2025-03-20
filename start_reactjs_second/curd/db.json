@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": "db57",
+      "rollno": "230",
+      "name": "dev",
+      "city": "nhopallhgf",
+      "fees": "123"
+    },
+    {
+      "id": "839d",
+      "rollno": "123",
+      "name": "Abhishek ",
+      "city": "Vyh",
+      "fees": "kjnb "
+    },
+    {
+      "id": "6bf5",
+      "rollno": "123",
+      "name": "deve456",
+      "city": "Vyh",
+      "fees": "4"
+    }
+  ]
+}

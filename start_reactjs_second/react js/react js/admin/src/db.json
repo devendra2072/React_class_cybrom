@@ -1,0 +1,32 @@
+{
+  "Employe": [
+    {
+      "id": "2",
+      "empno": "155",
+      "name": "ramlal",
+      "city": "Bihar",
+      "salary": 2000
+    },
+    {
+      "id": "3",
+      "empno": 123,
+      "name": "ramu",
+      "city": "Bhopal",
+      "salary": 10000
+    },
+    {
+      "id": "5fc9",
+      "empno": "0121",
+      "name": "ram",
+      "city": "bhopal",
+      "salary": "25500"
+    },
+    {
+      "id": "ad67",
+      "empno": "0121",
+      "name": "rahul",
+      "city": "indore",
+      "salary": "25448"
+    }
+  ]
+}

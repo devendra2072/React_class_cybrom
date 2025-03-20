@@ -5,7 +5,7 @@ const EditData=()=>{
     const {id} =useParams();
     const [mydata, setMydata]= useState({});
     const lodaData=()=>{
-        let api=`http://localhost:3000/student/${id}`;
+        let api=`http://127.0.0.1:8000/student/${id}/`;
         axios.get(api).then((res)=>{
             setMydata(res.data);
             console.log(res.data);
@@ -24,7 +24,7 @@ const EditData=()=>{
  }
 
  const handleSubmit=()=>{
-    let api=`http://localhost:3000/student/${id}`;
+    let api=`http://127.0.0.1:8000/student/${id}/`;
     axios.put(api, mydata).then((res)=>{
         alert("data updated!!!");
     })

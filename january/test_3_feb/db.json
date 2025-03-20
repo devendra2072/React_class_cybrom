@@ -1,0 +1,60 @@
+{
+  "student": [
+    {
+      "id": "8988",
+      "rollno": "1",
+      "name": "dev",
+      "city": "s",
+      "fees": "4"
+    },
+    {
+      "id": "8",
+      "rollno": "125",
+      "name": "neeraj",
+      "city": "indore",
+      "fees": "48588"
+    },
+    {
+      "id": "588a",
+      "rollno": "126",
+      "name": "abhishek",
+      "city": "India",
+      "fees": "999999"
+    },
+    {
+      "id": "db57",
+      "rollno": "23",
+      "name": "devendra",
+      "city": "hopal",
+      "fees": "123"
+    },
+    {
+      "id": "ddbf",
+      "rollno": "2",
+      "name": "anurag",
+      "city": "3",
+      "fees": "2"
+    },
+    {
+      "id": "839d",
+      "rollno": "123",
+      "name": "Abhishek ",
+      "city": "Vyh",
+      "fees": "kjnb "
+    },
+    {
+      "id": "6470",
+      "rollno": "56",
+      "name": "mohit",
+      "city": "sdfvsdfv",
+      "fees": "9541"
+    },
+    {
+      "id": "9f15",
+      "rollno": "123",
+      "name": "Abhishek ",
+      "city": "Vyh",
+      "fees": "kjnb "
+    }
+  ]
+}
